@@ -13,5 +13,7 @@
   "block.tutorailmod.deepslate_sapphire_ore": "Deepslate sapphire ore",
   "block.tutorailmod.nether_sapphire_ore": "Nether sapphire ore",
   "block.tutorailmod.end_stone_sapphire_ore": "End stone sapphire ore",
-  "block.tutorailmod.sound_block": "Sound Block"
+  "block.tutorailmod.sound_block": "Sound Block",
+
+  "tooltip.tutorailmod.metal_detector.tooltip": "Finds valuebles underground!"
 }
