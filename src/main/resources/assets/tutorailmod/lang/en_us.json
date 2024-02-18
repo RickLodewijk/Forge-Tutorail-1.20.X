@@ -1,0 +1,17 @@
+{
+  "item.tutorailmod.sapphire": "Sapphire",
+  "item.tutorailmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorailmod.metal_detector": "metal detector",
+  "item.tutorailmod.strawberry": "Strawberry",
+  "item.tutorailmod.pine_cone": "Pine cone",
+
+  "creativetab.tutorail_tab": "Sapphire Tutorail Tab",
+
+  "block.tutorailmod.sapphire_block": "Sapphire Block",
+  "block.tutorailmod.raw_sapphire_block": "Raw sapphire block",
+  "block.tutorailmod.sapphire_ore": "Sapphire ore",
+  "block.tutorailmod.deepslate_sapphire_ore": "Deepslate sapphire ore",
+  "block.tutorailmod.nether_sapphire_ore": "Nether sapphire ore",
+  "block.tutorailmod.end_stone_sapphire_ore": "End stone sapphire ore",
+  "block.tutorailmod.sound_block": "Sound Block"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tutorailmod:block/sound_block"
+    }
+  }
+}
