@@ -15,5 +15,15 @@
   "block.tutorailmod.end_stone_sapphire_ore": "End stone sapphire ore",
   "block.tutorailmod.sound_block": "Sound Block",
 
+  "block.tutorailmod.sapphire_stairs": "Sapphire Stairs",
+  "block.tutorailmod.sapphire_slab": "Sapphire Slab",
+  "block.tutorailmod.sapphire_button": "Sapphire Button",
+  "block.tutorailmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.tutorailmod.sapphire_fence": "Sapphire Fence",
+  "block.tutorailmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.tutorailmod.sapphire_wall": "Sapphire Wall",
+  "block.tutorailmod.sapphire_door": "Sapphire Door",
+  "block.tutorailmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
   "tooltip.tutorailmod.metal_detector.tooltip": "Finds valuebles underground!"
 }
