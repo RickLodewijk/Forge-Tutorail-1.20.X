@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "tutorailmod:block/sapphire_block",
+    "side": "tutorailmod:block/sapphire_block",
+    "top": "tutorailmod:block/sapphire_block"
+  }
+}

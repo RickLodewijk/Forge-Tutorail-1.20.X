@@ -1,0 +1,11 @@
+// 1.20.1	2024-02-23T16:57:17.578301	Tags for minecraft:block mod id tutorailmod
+a2169f151652ae863447648b5c4dab6f958f8763 data/forge/tags/blocks/needs_netherite_tool.json
+87704e24efe0a69e5f7442e098cf409b4b7243c3 data/minecraft/tags/blocks/fences.json
+71be40a6a0a35d38ae32852f4617795b874c3c7a data/minecraft/tags/blocks/fence_gates.json
+23997e1b9c8078ca3cdf320c3431395bfcb61bae data/minecraft/tags/blocks/mineable/pickaxe.json
+601d3ca04d524f17eb819ddfc139d932ddabc31d data/minecraft/tags/blocks/needs_diamond_tool.json
+ac672173a36513bd41f7ffe8c0d2ec91f478941a data/minecraft/tags/blocks/needs_iron_tool.json
+e555bffa91f047549b80b222b016dcf17bc8bcdf data/minecraft/tags/blocks/needs_stone_tool.json
+929d7056b77799c4b045d56195bb3226f7afe00d data/minecraft/tags/blocks/walls.json
+d7d8143c8de566e800077983a8ab7a118a4a27c9 data/tutorailmod/tags/blocks/metal_detector_valuables.json
+1054db91aa8209090ef64c66585881d9154f0d03 data/tutorailmod/tags/blocks/needs_sapphire_tool.json
